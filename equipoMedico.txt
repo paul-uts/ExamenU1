@@ -1,0 +1,3 @@
+2020,loss,3
+6666,pinzas,4
+3030,lampara,4

@@ -1,0 +1,5 @@
+1,Cardiología
+2,Neurología
+3,Pediatría
+4,Oncología
+5,Medicina Interna
